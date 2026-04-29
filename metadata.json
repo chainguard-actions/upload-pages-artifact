@@ -1,6 +1,6 @@
 {
   "owner": "actions",
   "name": "upload-pages-artifact",
-  "visibility": "internal",
-  "description": "A composite action that prepares your static assets to be deployed to GitHub Pages"
+  "visibility": "public",
+  "description": "A composite action for packaging and uploading an artifact that can be deployed to GitHub Pages."
 }

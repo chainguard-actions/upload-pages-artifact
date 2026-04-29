@@ -1,6 +1,6 @@
 # actions/upload-pages-artifact
 
-A composite action that prepares your static assets to be deployed to GitHub Pages
+A composite action for packaging and uploading an artifact that can be deployed to GitHub Pages.
 
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/actions/upload-pages-artifact](https://github.com/actions/upload-pages-artifact).
 
