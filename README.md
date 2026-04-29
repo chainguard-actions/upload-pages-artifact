@@ -1,6 +1,14 @@
 # actions/upload-pages-artifact
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+A composite action that prepares your static assets to be deployed to GitHub Pages
+
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/actions/upload-pages-artifact](https://github.com/actions/upload-pages-artifact).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v4.0.0 | [`v4.0.0`](https://github.com/chainguard-actions/upload-pages-artifact/tree/v4.0.0) | — |
 
 ## Privacy
 
